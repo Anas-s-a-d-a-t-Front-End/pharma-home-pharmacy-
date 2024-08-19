@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "87031117955",
+    "project_id": "pharma-home-dafc3",
+    "storage_bucket": "pharma-home-dafc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87031117955:android:b73c8568e2e1a3d2b883b6",
+        "android_client_info": {
+          "package_name": "com.example.pharma_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87031117955-j603um9atqa6h7upe0rok3cnfm0aclng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharma_home",
+            "certificate_hash": "2053ddb836d116327e1bcf2f352a7fe419d76680"
+          }
+        },
+        {
+          "client_id": "87031117955-0u00rhquiabq2ahae466j6e1hd5mbjoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_3ZSQMIoNIt-m99zXmfq5ewkc1KEq0TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87031117955-0u00rhquiabq2ahae466j6e1hd5mbjoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87031117955-qi1ptgev6gh9n407hkljjd90a3lca5jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pharmaHome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87031117955:android:215f6366e7ce2b2ab883b6",
+        "android_client_info": {
+          "package_name": "com.example.pharma_home_pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87031117955-0u00rhquiabq2ahae466j6e1hd5mbjoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_3ZSQMIoNIt-m99zXmfq5ewkc1KEq0TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87031117955-0u00rhquiabq2ahae466j6e1hd5mbjoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87031117955-qi1ptgev6gh9n407hkljjd90a3lca5jh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pharmaHome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
